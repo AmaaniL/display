@@ -44,15 +44,15 @@ body{
     }
 
     #small {
-        flex-grow: 60%;
+        flex-basis: 60%;
     }
     #medium{
-        flex-grow: 33%;
+        flex-basis: 33%;
     }
 
     #large {
         display: none;
-        flex-grow: 100
+        flex-basis: 100%
     }
 
 
