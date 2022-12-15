@@ -38,7 +38,7 @@ body{
 
 }
 
-@media only screen and (min-width: 480px) and (max-width: 1024px) {
+@media only screen and (min-width: 480px) and (max-width: 1023px) {
     body {
         background-color: green;
     }
