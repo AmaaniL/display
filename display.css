@@ -44,6 +44,7 @@ body{
     }
 
     #small {
+        display: none;
         flex-basis: 60%;
     }
     #medium{
